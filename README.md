@@ -5,7 +5,9 @@ we defined our method in both pyhton and bash
 As here this is the primary idea to detect the ddos in tcp layer
 
 Next Step is to setup a basic apache webserver and to onionize it.
-Next need to setup the onion base ddos prevention where the onion service itself provides
+
+Next need to setup the onion based ddos prevention, where we use techniques and tools provided by onion service itself to make a onion protection.
+
 Next we have the list of tools to implement in both software adn hardware level to setup a defensive mechanism with features of
 "detect","protect"&"recover" in a automated format
 
