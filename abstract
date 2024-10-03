@@ -1,14 +1,14 @@
-**Abstract: DDoS Protection System for Cloud: Architecture and Tool**
+Abstract: DDoS Protection System for Cloud: Architecture and Tool
 
 The proposed solution focuses on a novel architecture designed to protect cloud systems from Distributed Denial of Service (DDoS) attacks by leveraging onion routing techniques. This DDoS protection system utilizes the Tor onion network to anonymize and safeguard cloud data, thereby reducing the risk of DDoS attacks, particularly at the network layer. The architecture introduces a multi-layered, automated detection and mitigation process that detects, protects, and restores the system in the event of an attack.
 
-**Technical Approach:**
+Technical Approach:
 The solution integrates the onion framework, employing Tor's onion routing and network obfuscation to shield the cloud infrastructure from direct attacks. Automated tools are developed to monitor for potential DDoS attempts and deploy countermeasures within the onion network itself. This approach also includes an embedded protection system against intrusion attempts, offering additional layers of security.
 
-**Feasibility and Viability:**
+Feasibility and Viability:
 The proposal draws inspiration from onion routing techniques currently in use by western governments for network security, thus ensuring its practicality. The primary challenge is the potential network lag introduced by the onion routing. However, the implementation of 5G technology and the system's automated detection and recovery features are expected to mitigate this issue.
 
-**Impact and Benefits:**
+Impact and Benefits:
 The system is especially relevant for defense and military applications, as it offers a private and secure web infrastructure capable of withstanding cyberattacks. In addition to providing robust security, the solution could lead to the development of globally recognized, automated cloud protection technologies.
 
 **Research and References:**
