@@ -8,3 +8,5 @@ Next Step is to setup a basic apache webserver and to onionize it.
 Next need to setup the onion base ddos prevention where the onion service itself provides
 Next we have the list of tools to implement in both software adn hardware level to setup a defensive mechanism with features of
 "detect","protect"&"recover" in a automated format
+
+more project details on abstract
