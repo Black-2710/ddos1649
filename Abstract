@@ -11,5 +11,5 @@ The proposal draws inspiration from onion routing techniques currently in use by
 Impact and Benefits:
 The system is especially relevant for defense and military applications, as it offers a private and secure web infrastructure capable of withstanding cyberattacks. In addition to providing robust security, the solution could lead to the development of globally recognized, automated cloud protection technologies.
 
-**Research and References:**
+Research and References:
 The architecture incorporates various tools and methodologies, such as Onionbalance, Endgame, and Blackhole Routing, supported by extensive research in onion services and cloud security. These tools enhance the system’s ability to detect and defend against DDoS attacks, making it a viable and cutting-edge solution for cloud infrastructure protection.
